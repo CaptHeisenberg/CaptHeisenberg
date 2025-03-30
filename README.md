@@ -3,7 +3,7 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://camo.githubusercontent.com/80f9964c3e82dedde37c1ad057f4c32e66ec24245eccfe3deea24934ef67fbb9/68747470733a2f2f632e74656e6f722e636f6d2f624238596345754761386f41414141432f626f6f6d6d6d2e676966"  />
+  <img height="200" src="https://media1.giphy.com/media/hrwmeFmQ4K2dCvI8aa/giphy.gif"  />
 </div>
 
 ###
@@ -41,17 +41,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CaptHeisenberg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptHeisenberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=CaptHeisenberg&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=CaptHeisenberg&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=CaptHeisenberg&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=CaptHeisenberg&theme=elegant" height="150" alt="activity-graph graph"  />
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CaptHeisenberg/CaptHeisenberg/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CaptHeisenberg/CaptHeisenberg/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/CaptHeisenberg/CaptHeisenberg/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
 
