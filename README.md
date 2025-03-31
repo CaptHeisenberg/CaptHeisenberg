@@ -36,7 +36,7 @@
 
 ###
 
-<p align="left">1. 💻 3rd year ECE student at SRM KTR, diving into tech and innovation.<br>2. 📊 Enthusiastic about Data Science, always exploring new algorithms and data trends.<br>3. 🤖 Machine Learning enthusiast, experimenting with models and AI applications.<br>4. 🔍 Passionate about solving real-world problems through data driven insights.<br>5. 🚀 Constantly learning, coding, and striving for the next big tech breakthrough!</p>
+<p align="center">1. 💻 3rd year ECE student at SRM KTR, diving deep into tech and innovation.<br>2. 📊 Enthusiastic about Data Science, always exploring new algorithms and data trends.<br>3. 🤖 Machine Learning enthusiast, experimenting with models and AI applications.<br>4. 🔍 Passionate about solving real-world problems through data driven insights.<br>5. 🚀 Constantly learning, coding, and striving for the next big tech breakthrough!</p>
 
 ###
 
@@ -53,6 +53,12 @@
   <a href="https://www.linkedin.com/in/at084/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="linkedin logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/CaptHeisenberg/count.svg?"  />
 </div>
 
 ###
