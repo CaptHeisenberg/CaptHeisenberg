@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
-  <img height="400" src="https://media1.giphy.com/media/hrwmeFmQ4K2dCvI8aa/giphy.gif"  />
+<div align="left">
+  <img height="200" src="https://media1.giphy.com/media/hrwmeFmQ4K2dCvI8aa/giphy.gif"  />
 </div>
 
 ###
 
-<div align="center">
+<div align="justified">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
@@ -36,7 +36,7 @@
 
 ###
 
-<p align="center">
+<p align="justified">
   1. 💻 3rd year ECE student at SRM KTR, diving deep into tech and innovation.<br>
   2. 📊 Enthusiastic about Data Science, always exploring new algorithms and data trends.<br>
   3. 🤖 Machine Learning enthusiast, experimenting with models and AI applications.<br>
