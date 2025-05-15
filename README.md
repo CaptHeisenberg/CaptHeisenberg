@@ -36,7 +36,7 @@
 
 ###
 
-<p align="justidied center">
+<p align="center">
   1. 💻 3rd year ECE student at SRM KTR, diving deep into tech and innovation.<br>
   2. 📊 Enthusiastic about Data Science, always exploring new algorithms and data trends.<br>
   3. 🤖 Machine Learning enthusiast, experimenting with models and AI applications.<br>
