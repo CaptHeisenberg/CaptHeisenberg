@@ -36,13 +36,13 @@
 
 ###
 
-<p align="center">
+<p align="justidied">
   1. 💻 3rd year ECE student at SRM KTR, diving deep into tech and innovation.<br>
   2. 📊 Enthusiastic about Data Science, always exploring new algorithms and data trends.<br>
   3. 🤖 Machine Learning enthusiast, experimenting with models and AI applications.<br>
   4. 🔍 Passionate about solving real-world problems through data driven insights.<br>
-  5. 🚀 Constantly learning, coding, and striving for the next big tech breakthrough!</p>
-  6. 19th Rank in Kenya Clinical Reasoning Challenge, Zindi, Finalist in FSM Hackathon 3.0, FORE School of Management, Delhi
+  5. 🚀 Constantly learning, coding, and striving for the next big tech breakthrough!.<br>
+  6. 19th Rank in Kenya Clinical Reasoning Challenge, Zindi, Finalist in FSM Hackathon 3.0, FORE School of Management, Delhi</p>p>
 
 ###
 
